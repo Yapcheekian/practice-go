@@ -1,0 +1,1 @@
+### Simple command line application for practicing go
